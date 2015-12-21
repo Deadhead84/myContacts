@@ -1,0 +1,57 @@
+html, body {
+	background: url("/css/backgroundimage.jpeg") no-repeat center center fixed; /* this gave background image effect that I have */
+  	background-size:   cover; 
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#searchform {
+	margin-top: 8px;
+	margin-left: 20px;
+}
+
+#search {
+	width: 200px;
+}
+
+#addContact {
+	float: right;
+
+}
+
+.tablehead {
+	font-size: 20px;
+}
+
+.form-group {
+	padding-bottom: 5px;
+}
+
+.title {
+	text-align: center;
+	color: white;
+}
+
+.address p {
+	margin: 0;
+}
+
+#mModal {
+	width: 200px;
+}
+
+.form-group {
+	margin-top: 10px !important;
+	margin-left: 10px !important;
+}
+
+
+
+
